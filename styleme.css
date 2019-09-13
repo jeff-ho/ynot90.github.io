@@ -1,0 +1,51 @@
+.navbar {
+  transition:0.5s;
+  width:100%;
+  padding:30px;
+  top:30px;
+  font-size:28px;
+  text-align:center;
+  
+}
+
+.navbar ul li {
+  list-style-type:none;
+  display:inline-block;
+  padding:10px 50px;
+  cursor:pointer;
+}
+
+.navbar ul li a {
+  text-decoration:none;
+  font-weight:bold;
+  color:black;
+  font-family:"Quicksand";
+}
+
+.navbar ul li a:hover {
+  color:gray;
+}
+
+img {
+  float:right;
+  width:800px;
+  height: 1000px;
+  margin-right:400px;
+  border-radius:50%;
+}
+
+.name {
+  font-size:60px;
+  margin-left:600px;
+  margin-bottom:100px;
+  margin-top:200px;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.bio {
+  font-size:25px;
+  margin-left:620px;
+  margin-bottom:1000px;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
