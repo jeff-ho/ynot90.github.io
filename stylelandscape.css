@@ -46,3 +46,13 @@ img:hover {
 .navbar ul li a:hover {
 	color:gray;
 }
+
+.lb-next {
+    background-image: url("./next.png") no-repeat scroll right top;
+    /*position: absolute;*/
+    /*z-index: 99;*/
+}
+
+.lb-prev {
+    background: url("prev.png") no-repeat scroll left 48% transparent;
+}
