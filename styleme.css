@@ -28,14 +28,14 @@
 
 img {
   float:right;
-  width:800px;
+  width:30%;
   height: 1000px;
   margin-right:400px;
   border-radius:50%;
 }
 
 .name {
-  font-size:60px;
+  font-size:400%;
   margin-left:600px;
   margin-bottom:100px;
   margin-top:200px;
@@ -43,7 +43,7 @@ img {
 }
 
 .bio {
-  font-size:25px;
+  font-size:200%;
   margin-left:620px;
   margin-bottom:1000px;
   font-family: 'Gloria Hallelujah', cursive;
